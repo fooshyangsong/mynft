@@ -6,13 +6,12 @@
       "name": "My NFT 1",
       "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
       "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-      "states":
-      {
-        "STR":5,
-       "INT":1,
-       "AGI":2,
-       "LUCK":1
-      },
+      "states": {
+        "STR": 5,
+        "INT": 1,
+        "AGI": 2,
+        "LUCK": 1
+      }
     },
     {
       "id": 2,
@@ -20,13 +19,12 @@
       "name": "My NFT 2",
       "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
       "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-      "states":
-      {
-        "STR":4,
-       "INT":1,
-       "AGI":1,
-       "LUCK":4
-      },
+      "states": {
+        "STR": 4,
+        "INT": 1,
+        "AGI": 1,
+        "LUCK": 4
+      }
     },
     {
       "id": 3,
@@ -34,13 +32,12 @@
       "name": "My NFT 3",
       "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
       "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-      "states":
-      {
-        "STR":1,
-       "INT":5,
-       "AGI":2,
-       "LUCK":2
-      },
+      "states": {
+        "STR": 1,
+        "INT": 5,
+        "AGI": 2,
+        "LUCK": 2
+      }
     }
   ]
 }
